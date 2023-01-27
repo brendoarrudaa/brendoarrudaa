@@ -8,7 +8,7 @@
 
 - 💬 Ask me about ** HTML, CSS, JavaScript, React, Next.js , Styled-Components**
 
-- ⚡ Fun fact **Otaku 😜**
+- ⚡ Fun fact ** Otaku 😜**
 
 
 <br><br>
