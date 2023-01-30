@@ -30,7 +30,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=brendoarrudaa&show_icons=true&theme=vision-friendly-dark" alt="brendoarrudaa stats"/>
+  <!--
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=brendoarrudaa&show_icons=true&theme=vision-friendly-dark" alt="brendoarrudaa stats"/> -->
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendoarrudaa&layout=compact&theme=vision-friendly-dark" alt="brendoarrudaa most languages"/>
 </p>
 
