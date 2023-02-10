@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/brendoarrudaa/c423f436d667d26f42d44d613d5e1587/raw/3db157b6f96f70aba88a0d1033f21eb1dbee56ba/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/brendoarrudaa/c423f436d667d26f42d44d613d5e1587/raw/7a0fbc4a641230dc9b0faf0698be8941b8782835/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Brendo Arruda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brendoarrudaa&color=yellow" alt="Profile views" /> </p>
 
