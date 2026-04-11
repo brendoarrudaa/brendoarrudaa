@@ -7,7 +7,7 @@
   Focused on React, Next.js and n8n. Based in Rio de Janeiro 🇧🇷
 </p>
 
-<br><br>
+<br>
 
 ## 🛠 Stack
 
