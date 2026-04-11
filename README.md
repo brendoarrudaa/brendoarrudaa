@@ -31,6 +31,6 @@
 <a href="https://www.instagram.com/brendoarrudaa/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram"/>
 </a>&nbsp;
-<a href="mailto:seu@email.com">
+<a href="mailto:brendo.arruda@email.com">
   <img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail"/>
 </a>
