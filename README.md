@@ -7,10 +7,6 @@
   Focused on React, Next.js and n8n. Based in Rio de Janeiro 🇧🇷
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=brendoarrudaa&color=yellow" alt="Profile views" />
-</p>
-
 <br><br>
 
 ## 🛠 Stack
