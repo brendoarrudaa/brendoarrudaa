@@ -1,36 +1,60 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/brendoarrudaa/c423f436d667d26f42d44d613d5e1587/raw/7a0fbc4a641230dc9b0faf0698be8941b8782835/githubcard.svg"/>
+<h1 align="center">Brendo Arruda</h1>
 
-<h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="28px">, I'm Brendo Arruda</h1>
-
-<p>
-  Web developer building interfaces and automation workflows.<br>
-  Focused on React, Next.js and n8n. Based in Rio de Janeiro 🇧🇷
+<p align="center">
+  Desenvolvedor Web Junior · React · Next.js · n8n<br>
+  Rio de Janeiro, Brasil
 </p>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/brendo-arruda-706773105/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:brendo.arruda@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/brendoarrudaa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## 🛠 Stack
+---
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Styled Components](https://img.shields.io/badge/-Styled_Components-05122A?style=flat&logo=styledcomponents)&nbsp;
-![n8n](https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+### Sobre
 
-<br>
+Desenvolvedor web focado em criar interfaces modernas e fluxos de automação. Trabalho com React e Next.js no front-end, e utilizo n8n para integrar sistemas e automatizar processos. Tenho interesse em produtos bem estruturados, código legível e boa experiência de uso.
 
-## 📬 Contact
+---
 
-<a href="https://www.linkedin.com/in/brendo-arruda-706773105/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin"/>
-</a>&nbsp;
-<a href="https://www.instagram.com/brendoarrudaa/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram"/>
-</a>&nbsp;
-<a href="mailto:brendo.arruda@email.com">
-  <img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail"/>
-</a>
+### Stack
+
+**Front-end**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+**Back-end & Automação**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brendoarrudaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendoarrudaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+<p align="center">
+  <i>Aberto a oportunidades e colaborações.</i>
+</p>
