@@ -46,12 +46,21 @@ Desenvolvedor web focado em criar interfaces modernas e fluxos de automação. T
 
 ---
 
-### GitHub Stats
+### Projetos em destaque
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brendoarrudaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendoarrudaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<!-- Substitua os placeholders abaixo pelos seus projetos reais. Recomendo 2 a 4 projetos. -->
+
+**[nome-do-projeto-1](https://github.com/brendoarrudaa/nome-do-projeto-1)**  
+Descrição curta em uma linha do que o projeto faz e qual problema resolve.  
+`Next.js` `TypeScript` `Tailwind`
+
+**[nome-do-projeto-2](https://github.com/brendoarrudaa/nome-do-projeto-2)**  
+Descrição curta em uma linha do que o projeto faz e qual problema resolve.  
+`React` `Node.js` `n8n`
+
+**[nome-do-projeto-3](https://github.com/brendoarrudaa/nome-do-projeto-3)**  
+Descrição curta em uma linha do que o projeto faz e qual problema resolve.  
+`n8n` `Automação`
 
 ---
 
