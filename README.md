@@ -21,8 +21,7 @@
 
 ### Sobre
 
-Desenvolvedor web focado em criar interfaces modernas e fluxos de automação. Trabalho com React e Next.js no front-end, e utilizo n8n para integrar sistemas e automatizar processos. Tenho interesse em produtos bem estruturados, código legível e boa experiência de uso.
-
+Web developer focused on creating modern interfaces and automation flows. I work with React and Next.js on the front-end, and use n8n to integrate systems and automate processes. I am interested in well-structured products, readable code, and a good user experience.
 ---
 
 ### Stack
