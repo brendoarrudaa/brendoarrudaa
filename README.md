@@ -44,25 +44,6 @@ Desenvolvedor web focado em criar interfaces modernas e fluxos de automação. T
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-### Projetos em destaque
-
-<!-- Substitua os placeholders abaixo pelos seus projetos reais. Recomendo 2 a 4 projetos. -->
-
-**[nome-do-projeto-1](https://github.com/brendoarrudaa/nome-do-projeto-1)**  
-Descrição curta em uma linha do que o projeto faz e qual problema resolve.  
-`Next.js` `TypeScript` `Tailwind`
-
-**[nome-do-projeto-2](https://github.com/brendoarrudaa/nome-do-projeto-2)**  
-Descrição curta em uma linha do que o projeto faz e qual problema resolve.  
-`React` `Node.js` `n8n`
-
-**[nome-do-projeto-3](https://github.com/brendoarrudaa/nome-do-projeto-3)**  
-Descrição curta em uma linha do que o projeto faz e qual problema resolve.  
-`n8n` `Automação`
-
----
 
 <p align="center">
   <i>Aberto a oportunidades e colaborações.</i>
