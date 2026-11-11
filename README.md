@@ -27,16 +27,17 @@
 
 Desenvolvedor Full Stack com mais de 5 anos de experiência, hoje **Tech Lead da [Quickap](https://quickap.io)**, plataforma SaaS multi-tenant de delivery, PDV e agendamentos. Atuo de ponta a ponta: front-end em Next.js, React e TypeScript; APIs em Node.js e Strapi (REST e GraphQL) com PostgreSQL; pagamentos, nota fiscal e integrações com marketplaces; SEO técnico; automações com n8n e IA; e infraestrutura com Docker, Kubernetes e CI/CD.
 
-Lidero uma equipe de dois desenvolvedores (front-end e back-end), conduzindo as reuniões, acompanhando as entregas e revisando os pull requests.
+Lidero uma equipe de dois desenvolvedores (front-end e back-end), conduzindo as reuniões, acompanhando as entregas e revisando os pull requests. Pela Quicklab, também atuei por 3 anos na **TIVIT**, desenvolvendo a plataforma multicloud OneCloud em React.
 
 ### Destaques
 
-- Arquitetura de adaptadores que unifica pedidos de iFood, 99Food, Keeta, Saipos, Delivery Direto e Open Delivery
+- Hub de integração com iFood, 99Food, Keeta, Saipos e Open Delivery, com pedidos normalizados por uma arquitetura de adaptadores
 - Pagamentos com Stripe Connect e Mercado Pago, com assinaturas recorrentes, e emissão de NF-e, NFC-e e NFS-e com a Focus NFe
-- Pedidos em tempo real com Socket.IO, impressão automática na cozinha, Web Push e notificações por WhatsApp
+- Ciclo de pedidos em tempo real com Socket.IO e impressão automática na cozinha
+- Agente de IA (OpenAI e LangChain no n8n) que escreve posts em 3 idiomas, gera as capas e abre o pull request sozinho: cerca de 975 posts publicados
+- Prospecção automatizada com Google Places API, validação de contatos e envio de SMS e e-mail
 - Infraestrutura do n8n em Docker, migrada para Kubernetes para escalar os workflows de automação
-- Pipeline com n8n e agentes de IA (OpenAI e LangChain) que publica um post por dia em 3 idiomas, do texto ao pull request
-- SEO técnico de site e blog multilíngues: dados estruturados, sitemap, URLs mapeadas entre idiomas e detecção de canibalização de palavras-chave
+- SEO técnico de site e blog multilíngues: hreflang, sitemap e RSS por idioma, mapa de slugs e detecção de canibalização de palavras-chave
 
 ---
 
@@ -49,6 +50,7 @@ Lidero uma equipe de dois desenvolvedores (front-end e back-end), conduzindo as 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![PrimeReact](https://img.shields.io/badge/PrimeReact-03C4E8?style=for-the-badge&logo=primereact&logoColor=white)
 
 **Back-end e banco de dados**<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -69,7 +71,7 @@ Lidero uma equipe de dois desenvolvedores (front-end e back-end), conduzindo as 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 **DevOps e qualidade**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
